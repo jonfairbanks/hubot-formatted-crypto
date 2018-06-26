@@ -1,0 +1,23 @@
+{
+  "name": "hubot-formatted-crypto",
+  "version": "1.0.1",
+  "description": "Displays user-requested crypto prices in Slack using clean, formatted messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonfairbanks/hubot-formatted-crypto.git"
+  },
+  "keywords": [
+    "crypto",
+    "hubot"
+  ],
+  "author": "Jon Fairbanks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonfairbanks/hubot-formatted-crypto/issues"
+  },
+  "homepage": "https://github.com/jonfairbanks/hubot-formatted-crypto#readme"
+}
