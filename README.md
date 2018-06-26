@@ -1,0 +1,1 @@
+# hubot-formatted-crypto
