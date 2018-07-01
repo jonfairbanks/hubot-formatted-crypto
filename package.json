@@ -1,6 +1,6 @@
 {
   "name": "hubot-formatted-crypto",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Displays user-requested crypto prices in Slack using clean, formatted messages.",
   "main": "index.js",
   "scripts": {
