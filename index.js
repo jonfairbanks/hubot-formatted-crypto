@@ -132,7 +132,7 @@ module.exports = function(robot) {
               }
             ]
           }
-          robot.adapter.customMessage(msgData);
+          msg.send(msgData);
         }
       }
     });
